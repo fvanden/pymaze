@@ -43,8 +43,8 @@ class Penguin(object):
         pass
 
         self.pen = Image.open(filename)
-        self.standardBackground = kwargs.get("background","pymaze/maze1.png")
-
+        #self.standardBackground = kwargs.get("background","pymaze/maze1.png")
+        self.standardBackground = "pymaze/maze1.png"
 
         self.pace = 181
         self.orientation = 90
