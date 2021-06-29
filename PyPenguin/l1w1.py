@@ -26,7 +26,7 @@ Revision history:   16.05.2021 - Created
 """
 ## -------------------------------------------------------------------------- ##
 
-mypenguin = Penguin("penguin.png")
+mypenguin = Penguin("pymaze/penguin.png")
 style = {'description_width':'initial'}
 
 left = widgets.Button(
