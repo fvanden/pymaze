@@ -4,8 +4,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 from PIL import Image
-from PyPenguin.penguin import Penguin
-from PyPenguin.digimaze import Block
+from pymaze.PyPenguin.penguin import Penguin
+from pymaze.PyPenguin.digimaze import Block
 
 import ipywidgets as widgets
 #################
